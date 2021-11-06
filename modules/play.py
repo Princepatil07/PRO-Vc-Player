@@ -534,9 +534,9 @@ async def ytplay(_, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "😇 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/VkTgBotz"
+                    "😇 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/KING_PRINCE_SUPPORT"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🥰", url=f"https://t.me/VkTgBotSupport"),
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🥰", url=f"https://t.me/MR_prince_music"),
             ],
         ]
     )
@@ -674,9 +674,9 @@ async def jiosaavn(client: Client, message_: Message):
         [
             [
                 InlineKeyboardButton(
-                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/VkTgBotz"
+                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/KING_PRINCE_SUPPORT"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/VkTgBotSupport"),
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/MR_prince_music"),
             ],
         ]
     )
